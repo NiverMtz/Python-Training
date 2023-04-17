@@ -1,0 +1,1 @@
+print( "Tu marca se llama: \"" + input("¿Qué animal te parece más extravagante? ") + " " + input("¿Cuál es el color más divertido? ") + "\"" )
